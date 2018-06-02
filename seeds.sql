@@ -1,0 +1,1 @@
+INSERT INTO books (title, author, genre, pages, created_At, updated_At) VALUES ('iRobot', 'Issac Asimov', 'Science Fiction', 750, 0, 0);
